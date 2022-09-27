@@ -11,6 +11,6 @@ This is an implementation of autoencoders using Convolutional Neural Networks in
 ## Results
 The network here is shallow and hence the filters are not that efficient in capturing various information present in the dataset and hence the results are not that appealing. However, it can be improved by modifying the architecture.
 
-[Model Training and Validation loss](https://github.com/Ayush-Mi/Auto_encoder_based_image_dehazing/blob/main/loss.png)
+![Model Training and Validation loss](https://github.com/Ayush-Mi/Auto_encoder_based_image_dehazing/blob/main/loss.png)
 
-[Model Results](https://github.com/Ayush-Mi/Auto_encoder_based_image_dehazing/blob/main/results.png)
+![Model Results](https://github.com/Ayush-Mi/Auto_encoder_based_image_dehazing/blob/main/results.png)
