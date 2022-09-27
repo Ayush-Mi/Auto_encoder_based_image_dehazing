@@ -17,5 +17,9 @@ The network here is shallow and hence the filters are not that efficient in capt
 
 #### Model test results
 
-![Model Results](https://github.com/Ayush-Mi/Auto_encoder_based_image_dehazing/blob/main/results.png)
+![Model Results](https://github.com/Ayush-Mi/Auto_encoder_based_image_dehazing/blob/main/results/results_1.png.png)
+
+![Model results](https://github.com/Ayush-Mi/Auto_encoder_based_image_dehazing/blob/main/results/results_2.png)
+
+![Model Results](https://github.com/Ayush-Mi/Auto_encoder_based_image_dehazing/blob/main/results/results_3.png)
 
